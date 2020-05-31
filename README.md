@@ -18,9 +18,9 @@ python3 portscanner.py <ip_address>
 NOTE : YOU can also use the change it to executeable mode and then run the port scanner.
 ![How to use](https://github.com/jeet-patel313/Port-Scanner/blob/master/IMG_20200531_153934.jpg)
 
+## Developer
+* **Jeet Patel**
+
 ## Further Information
 * This port scanner works best while scanning internal networks
 * New Suggestions or Problem encountered from the users are welcome!
-
-## Developer
-* **Jeet Patel**
