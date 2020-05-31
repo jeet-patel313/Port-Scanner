@@ -22,5 +22,5 @@ NOTE : You can also covert the .py script to executable mode and run the scanner
 * **Jeet Patel**
 
 ## Further Information
-* This port scanner works best while scanning internal networks
-* New Suggestions or Problem encountered from the users are welcome!
+* This port scanner works best while scanning internal networks.
+* We welcome new suggestions or problems encountered by the users.
