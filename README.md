@@ -13,6 +13,11 @@ This is a basic port scanner developed using Python programming language.
 git clone https://github.com/jeet-patel313/Port-Scanner.git
 ```
 ```
-
+cd Port-Scanner
 ```
+```
+python3 portscanner.py <ip_address>
+```
+![How to use](https://github.com/jeet-patel313/Port-Scanner/blob/master/IMG_20200531_153934.jpg)
+
 
