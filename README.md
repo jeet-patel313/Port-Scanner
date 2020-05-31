@@ -19,6 +19,8 @@ NOTE : YOU can also use the change it to executeable mode and then run the port 
 ![How to use](https://github.com/jeet-patel313/Port-Scanner/blob/master/IMG_20200531_153934.jpg)
 
 ## Further Information
-> 1. This port scanner works best while scanning internal networks
-> 2. The developer is continously working on it to make it better.
-> 3. New Suggestions or Problem encountered from the users are welcome!
+* This port scanner works best while scanning internal networks
+* New Suggestions or Problem encountered from the users are welcome!
+
+## Developer
+* **Jeet Patel**
