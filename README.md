@@ -15,7 +15,7 @@ cd Port-Scanner
 ```
 python3 portscanner.py <ip_address>
 ```
-NOTE : YOU can also use the change it to executeable mode and then run the port scanner.
+NOTE : You can also covert the .py script to executable mode and run the scanner.
 ![How to use](https://github.com/jeet-patel313/Port-Scanner/blob/master/IMG_20200531_153934.jpg)
 
 ## Developer
